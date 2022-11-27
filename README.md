@@ -10,20 +10,25 @@
 	
 ## <picture><img src = "https://github.com/xcitic/xcitic/raw/main/images/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/xcitic/xcitic/raw/main/images//coder.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/xcitic/xcitic/raw/main/images/coder.gif" width = 250px></picture>
 
 <br>
 
 - Fullstack Developer
-- Building tools that solve world problems
+
+- Building tools that solve world problems 
+
+- Self-taught engineer
+
+- Finance degree
+
 - Enjoy programming, architecture, complex problem solving and customer focused development.
 
 
 <br>
-
----
-
 <br>
+<br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -118,7 +123,6 @@
 </a>
 </div>
 
-<br>
 <br>
 <br>
 
