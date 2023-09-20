@@ -110,6 +110,7 @@
 
 <br>
 
+<!-- DISABLING GITHUBSTATS
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -130,6 +131,7 @@
 
 <br>
 <br>
+-->
 
 ## <b> Let's Connect..!</b><img src="https://github.com/xcitic/xcitic/raw/main/images/handshake.gif" width ="80">
 <br>
@@ -146,11 +148,13 @@
 
 <br>
 
+<!--
 <li>
 <a href="mailto:sami@mail.ecompx.com" target="_blank">
 <img src="https://img.shields.io/badge/Mail Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+-->
 	
 </ul>
 </div>
